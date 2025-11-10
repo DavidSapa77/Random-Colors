@@ -1,0 +1,2 @@
+# Random-Colors
+JavaScript Project
